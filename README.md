@@ -3,7 +3,7 @@
 [![pub package](https://img.shields.io/pub/v/appsync_subscription.svg)](https://pub.dev/packages/appsync_subscription)
 
 This plugin for [Flutter](https://flutter.io)
-handles subscripe to AWS AppSync subscription.
+handles subscribe to AWS AppSync subscription.
 
 ## Getting Started
 
